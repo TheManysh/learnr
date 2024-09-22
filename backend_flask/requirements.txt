@@ -1,0 +1,12 @@
+Flask
+google-generativeai
+langchain
+langchain-google-genai
+langchain-community
+pypdf
+chromadb
+Flask-PyMongo
+Flask-JWT-Extended
+bcrypt
+pytube
+openai
